@@ -1,0 +1,48 @@
+# Benchmark Configuration - Objects Full (158 objects, 8B, IO + COT)
+# Run: python benchmark_runner.py --config configs/full/4b/objects_158_io_cot.yaml
+
+models:
+  seeker:
+    model: "Qwen3-4B-Thinking-2507"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+    use_reasoning: true
+
+  oracle:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+  pruner:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+game:
+  observability_mode: "INITIALLY_OBSERVABLE"
+  max_turns: 30
+
+dataset:
+  type: "objects"
+  csv_path: "data/objects/objects_full.csv"
+  num_targets: null
+  runs_per_target: 3
+
+experiment:
+  name: "objects_158_4b_thinking_io_cot"
+  max_workers: 16
+  tags: {}
+
+output:
+  base_dir: "outputs"
+  save_conversations: true
+  save_graph_plots: false
+
+debug:
+  enabled: true

@@ -1,0 +1,161 @@
+city_id,city_name,state_id,state_name,country_id,country_name,region_id,region_name,subregion_id,subregion_name,population_2025
+1796236,Shanghai,900045000,Shanghai,45,China,3,Asia,12,Eastern Asia,24874500
+1816670,Beijing,900045001,Beijing,45,China,3,Asia,12,Eastern Asia,18960744
+1795565,Shenzhen,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,17494398
+1809858,Guangzhou,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,16096724
+2314302,Kinshasa,900051000,Kinshasa,51,Democratic Republic of the Congo,1,Africa,2,Middle Africa,16000000
+745044,Istanbul,2170,Istanbul,225,Turkey,3,Asia,11,Western Asia,15701602
+2332459,Lagos,900161000,Lagos,161,Nigeria,1,Africa,3,Western Africa,15388000
+1566083,Ho Chi Minh City,900240000,Ho Chi Minh City (HCMC),240,Vietnam,3,Asia,13,South-Eastern Asia,14002598
+1815286,Chengdu,900045003,Sichuan,45,China,3,Asia,12,Eastern Asia,13568357
+1172451,Lahore,900167000,Punjab,167,Pakistan,3,Asia,14,Southern Asia,13004135
+1275339,Mumbai,900101000,Maharashtra,101,India,3,Asia,14,Southern Asia,12691836
+3448439,Sao Paulo,900031000,Sao Paulo,31,Brazil,2,Americas,8,South America,12400232
+3530597,Mexico City,900142000,Mexico City,142,Mexico,2,Americas,6,Northern America,12294193
+1174872,Karachi,900167001,Sindh,167,Pakistan,3,Asia,14,Southern Asia,11624219
+1792947,Tianjin,900045004,Tianjin,45,China,3,Asia,12,Eastern Asia,11090314
+1273294,Delhi,900101001,Delhi,101,India,3,Asia,14,Southern Asia,11034555
+1791247,Wuhan,900045005,Hubei,45,China,3,Asia,12,Eastern Asia,10392693
+524901,Moscow,900182000,Moscow,182,Russia,4,Europe,15,Eastern Europe,10381222
+1185241,Dhaka,900019000,Dhaka Division,19,Bangladesh,3,Asia,14,Southern Asia,10356500
+1835848,Seoul,3849,Seoul,116,South Korea,3,Asia,12,Eastern Asia,10349312
+1850147,Tokyo,861,Tokyo,109,Japan,3,Asia,12,Eastern Asia,9733276
+1812545,Dongguan,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,9644871
+360630,Cairo,900065000,Cairo,65,Egypt,1,Africa,1,Northern Africa,9606916
+1790630,Xi'an,900045006,Shaanxi,45,China,3,Asia,12,Eastern Asia,9600000
+993800,Johannesburg,900204000,Gauteng,204,South Africa,1,Africa,5,Southern Africa,9418183
+1799962,Nanjing,900045007,Jiangsu,45,China,3,Asia,12,Eastern Asia,9314685
+1808926,Hangzhou,900045008,Zhejiang,45,China,3,Asia,12,Eastern Asia,9236032
+1811103,Foshan,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,9042509
+2643743,London,2336,England,232,United Kingdom,4,Europe,18,Northern Europe,8961989
+5128581,New York City,1452,New York,233,United States,2,Americas,6,Northern America,8804190
+1642911,Jakarta,900102000,Jakarta,102,Indonesia,3,Asia,13,South-Eastern Asia,8540121
+1277333,Bengaluru,900101002,Karnataka,101,India,3,Asia,14,Southern Asia,8495492
+1581130,Hanoi,3825,Hanoi,240,Vietnam,3,Asia,13,South-Eastern Asia,8053663
+1668341,Taipei,900216000,Taiwan,216,Taiwan,3,Asia,12,Eastern Asia,7871900
+3936456,Lima,5687,Lima Province,173,Peru,2,Americas,8,South America,7737002
+3688689,Bogota,900048000,Bogota D.C.,48,Colombia,2,Americas,8,South America,7674366
+1814906,Chongqing,900045009,Chongqing,45,China,3,Asia,12,Eastern Asia,7457599
+1819729,Hong Kong,900097999,,98,Hong Kong S.A.R.,3,Asia,12,Eastern Asia,7396076
+98182,Baghdad,900104000,Baghdad,104,Iraq,3,Asia,11,Western Asia,7216000
+1797929,Qingdao,900045010,Shandong,45,China,3,Asia,12,Eastern Asia,7172451
+112931,Tehran,3941,Tehran,103,Iran,3,Asia,14,Southern Asia,7153309
+2034937,Shenyang,900045011,Liaoning,45,China,3,Asia,12,Eastern Asia,7050000
+1269843,Hyderabad,900101003,Telangana,101,India,3,Asia,14,Southern Asia,6993262
+3451190,Rio de Janeiro,900031001,Rio de Janeiro,31,Brazil,2,Americas,8,South America,6747815
+1886760,Suzhou,900045007,Jiangsu,45,China,3,Asia,12,Eastern Asia,6715559
+1279233,Ahmedabad,900101004,Gujarat,101,India,3,Asia,14,Southern Asia,6357693
+2293538,Abidjan,900054000,Abidjan Autonomous District,54,Ivory Coast,1,Africa,3,Western Africa,6321017
+1880252,Singapore,900198999,,199,Singapore,3,Asia,13,South-Eastern Asia,5638700
+2147714,Sydney,900014000,New South Wales,14,Australia,5,Oceania,19,Australia and New Zealand,5557233
+160263,Dar es Salaam,1474,Dar es Salaam Region,218,Tanzania,1,Africa,4,Eastern Africa,5383728
+498817,Saint Petersburg,900182001,St.-Petersburg,182,Russia,4,Europe,15,Eastern Europe,5351935
+2158177,Melbourne,900014001,Victoria,14,Australia,5,Oceania,19,Australia and New Zealand,5350705
+361058,Alexandria,900065001,Alexandria,65,Egypt,1,Africa,1,Northern Africa,5263542
+2037013,Harbin,900045012,Heilongjiang,45,China,3,Asia,12,Eastern Asia,5242897
+1609350,Bangkok,3485,Bangkok,219,Thailand,3,Asia,13,South-Eastern Asia,5104476
+1808722,Hefei,900045013,Anhui,45,China,3,Asia,12,Eastern Asia,5050000
+1814087,Dalian,900045011,Liaoning,45,China,3,Asia,12,Eastern Asia,4913879
+2335204,Kano,900161001,Kano State,161,Nigeria,1,Africa,3,Western Africa,4910000
+3871336,Santiago,900044000,Santiago Metropolitan,44,Chile,2,Americas,8,South America,4837295
+3369157,Cape Town,900204001,Western Cape,204,South Africa,1,Africa,5,Southern Africa,4772846
+1168197,Peshawar,900167002,Khyber Pakhtunkhwa,167,Pakistan,3,Asia,14,Southern Asia,4758762
+2038180,Changchun,900045014,Jilin,45,China,3,Asia,12,Eastern Asia,4714996
+105343,Jeddah,2853,Mecca Region,194,Saudi Arabia,3,Asia,11,Western Asia,4697000
+1264527,Chennai,900101005,Tamil Nadu,101,India,3,Asia,14,Southern Asia,4681087
+1275004,Kolkata,900101006,West Bengal,101,India,3,Asia,14,Southern Asia,4631392
+1790645,Xiamen,900045015,Fujian,45,China,3,Asia,12,Eastern Asia,4617251
+1255364,Surat,900101004,Gujarat,101,India,3,Asia,14,Southern Asia,4591246
+1298824,Yangon,2139,Yangon,151,Myanmar,3,Asia,13,South-Eastern Asia,4477638
+13308620,Bao'an,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,4476554
+1138958,Kabul,900001000,Kabul,1,Afghanistan,3,Asia,14,Southern Asia,4434550
+184745,Nairobi,201,Nairobi County,113,Kenya,1,Africa,4,Eastern Africa,4397073
+1790923,Wuxi,900045007,Jiangsu,45,China,3,Asia,12,Eastern Asia,4396835
+360995,Giza,900065002,Giza,65,Egypt,1,Africa,1,Northern Africa,4367343
+1805753,Jinan,900045010,Shandong,45,China,3,Asia,12,Eastern Asia,4335989
+1793511,Taiyuan,900045016,Shanxi,45,China,3,Asia,12,Eastern Asia,4303673
+1784658,Zhengzhou,900045017,Henan,45,China,3,Asia,12,Eastern Asia,4253913
+2460596,Bamako,900134000,Bamako,134,Mali,1,Africa,3,Western Africa,4227569
+108410,Riyadh,2860,Riyadh Region,194,Saudi Arabia,3,Asia,11,Western Asia,4205961
+12908892,New Taipei City,900216001,Taipei,216,Taiwan,3,Asia,12,Eastern Asia,4004367
+12747063,New Territories,900098000,,98,Hong Kong S.A.R.,3,Asia,12,Eastern Asia,3984077
+1795270,Shijiazhuang,900045018,Hebei,45,China,3,Asia,12,Eastern Asia,3938513
+1205733,Chattogram,900019001,Chittagong,19,Bangladesh,3,Asia,14,Southern Asia,3920222
+344979,Addis Ababa,900070000,Addis Ababa,70,Ethiopia,1,Africa,4,Eastern Africa,3860000
+1804651,Kunming,900045019,Yunnan,45,China,3,Asia,12,Eastern Asia,3855346
+6986104,Zhongshan,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,3841873
+1799869,Nanning,900045020,Guangxi,45,China,3,Asia,12,Eastern Asia,3839800
+1795940,Shantou,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,3838900
+5368361,Los Angeles,1416,California,233,United States,2,Americas,6,Northern America,3820914
+1179400,Faisalabad,900167000,Punjab,167,Pakistan,3,Asia,14,Southern Asia,3800193
+292223,Dubai,900231000,Dubai,231,United Arab Emirates,3,Asia,11,Western Asia,3790000
+1848354,Yokohama,852,Kanagawa,109,Japan,3,Asia,12,Eastern Asia,3777491
+1810821,Fuzhou,900045015,Fujian,45,China,3,Asia,12,Eastern Asia,3740000
+1799397,Ningbo,900045008,Zhejiang,45,China,3,Asia,12,Eastern Asia,3731203
+2553604,Casablanca,3303,Casablanca-Settat,149,Morocco,1,Africa,1,Northern Africa,3665954
+2339354,Ibadan,900161002,Oyo State,161,Nigeria,1,Africa,3,Western Africa,3649000
+1798425,Puyang,900045008,Zhejiang,45,China,3,Asia,12,Eastern Asia,3590000
+323786,Ankara,2210,Ankara,225,Turkey,3,Asia,11,Western Asia,3517182
+1794903,Shiyan,900045005,Hubei,45,China,3,Asia,12,Eastern Asia,3460000
+2950159,Berlin,900082000,State of Berlin,82,Germany,4,Europe,17,Western Europe,3426354
+1793346,Tangshan,900045018,Hebei,45,China,3,Asia,12,Eastern Asia,3372102
+1166993,Rawalpindi,900167000,Punjab,167,Pakistan,3,Asia,14,Southern Asia,3357612
+13512505,Lueliang,900045016,Shanxi,45,China,3,Asia,12,Eastern Asia,3346500
+1838524,Busan,900116001,Busan,116,South Korea,3,Asia,12,Eastern Asia,3343903
+1007311,Durban,900204002,KwaZulu-Natal,204,South Africa,1,Africa,5,Southern Africa,3338026
+1815456,Changzhou,900045007,Jiangsu,45,China,3,Asia,12,Eastern Asia,3290918
+3117735,Madrid,900207000,Madrid,207,Spain,4,Europe,16,Southern Europe,3255944
+1871859,Pyongyang,900115000,Pyongyang,115,North Korea,3,Asia,12,Eastern Asia,3222000
+1785286,Zibo,900045010,Shandong,45,China,3,Asia,12,Eastern Asia,3129228
+1259229,Pune,900101000,Maharashtra,101,India,3,Asia,14,Southern Asia,3124458
+750269,Bursa,2163,Bursa Province,225,Turkey,3,Asia,11,Western Asia,3101833
+1815577,Changsha,900045021,Hunan,45,China,3,Asia,12,Eastern Asia,3093980
+1692192,Quezon City,900174000,National Capital Region,174,Philippines,3,Asia,13,South-Eastern Asia,3084270
+1269515,Jaipur,900101007,Rajasthan,101,India,3,Asia,14,Southern Asia,3046163
+1843564,Incheon,900116002,Incheon,116,South Korea,3,Asia,12,Eastern Asia,3039450
+1809461,Guiyang,900045022,Guizhou,45,China,3,Asia,12,Eastern Asia,3037159
+1529102,UEruemqi,900045023,Xinjiang,45,China,3,Asia,12,Eastern Asia,3029372
+1804430,Lanzhou,900045024,Gansu,45,China,3,Asia,12,Eastern Asia,3000000
+3646738,Caracas,900239000,Distrito Federal,239,Venezuela,2,Americas,8,South America,3000000
+311046,Izmir,2205,Izmir Province,225,Turkey,3,Asia,11,Western Asia,2938292
+1806776,Huizhou,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,2900113
+3435910,Buenos Aires,900011000,Buenos Aires F.D.,11,Argentina,2,Americas,8,South America,2891082
+1625822,Surabaya,900102001,East Java,102,Indonesia,3,Asia,13,South-Eastern Asia,2874314
+1809078,Haikou,900045025,Hainan,45,China,3,Asia,12,Eastern Asia,2873358
+1668399,Taichung,900216000,Taiwan,216,Taiwan,3,Asia,12,Eastern Asia,2850285
+1267995,Kanpur,900101008,Uttar Pradesh,101,India,3,Asia,14,Southern Asia,2823249
+703448,Kyiv,4675,Kyiv City,230,Ukraine,4,Europe,15,Eastern Europe,2797553
+6167865,Toronto,900039000,Ontario,39,Canada,2,Americas,6,Northern America,2794356
+3652462,Quito,900064000,Pichincha,64,Ecuador,2,Americas,8,South America,2781641
+2174003,Brisbane,900014002,Queensland,14,Australia,5,Oceania,19,Australia and New Zealand,2780063
+2240449,Luanda,900007000,Luanda,7,Angola,1,Africa,2,Middle Africa,2776168
+1853909,Osaka,826,Osaka,109,Japan,3,Asia,12,Eastern Asia,2753862
+1803318,Linyi,900045010,Shandong,45,China,3,Asia,12,Eastern Asia,2743843
+1816971,Baoding,900045018,Hebei,45,China,3,Asia,12,Eastern Asia,2739887
+1673820,Kaohsiung,900216002,Takao,216,Taiwan,3,Asia,12,Eastern Asia,2737660
+5110302,Brooklyn,1452,New York,233,United States,2,Americas,6,Northern America,2736074
+3657509,Guayaquil,900064001,Guayas,64,Ecuador,2,Americas,8,South America,2723665
+3470127,Belo Horizonte,900031002,Minas Gerais,31,Brazil,2,Americas,8,South America,2721564
+3450554,Salvador,900031003,Bahia,31,Brazil,2,Americas,8,South America,2711840
+2352778,Abuja,900161003,FCT,161,Nigeria,1,Africa,3,Western Africa,2690000
+1200109,Gazipur,900019000,Dhaka Division,19,Bangladesh,3,Asia,14,Southern Asia,2674697
+4887398,Chicago,1425,Illinois,233,United States,2,Americas,6,Northern America,2664452
+1791388,Wenzhou,900045008,Zhejiang,45,China,3,Asia,12,Eastern Asia,2650000
+2253354,Dakar,900195000,Dakar,195,Senegal,1,Africa,3,Western Africa,2646503
+1581298,Haiphong,900240002,Hai Phong,240,Vietnam,3,Asia,13,South-Eastern Asia,2625200
+1785725,Yunfu,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,2612800
+6619347,Navi Mumbai,900101000,Maharashtra,101,India,3,Asia,14,Southern Asia,2600000
+53654,Mogadishu,900203000,Banaadir,203,Somalia,1,Africa,4,Eastern Africa,2587183
+1649378,Bekasi,900102002,West Java,102,Indonesia,3,Asia,13,South-Eastern Asia,2564940
+2298890,Kumasi,900083000,Ashanti,83,Ghana,1,Africa,3,Western Africa,2544530
+1177662,Gujranwala,900167000,Punjab,167,Pakistan,3,Asia,14,Southern Asia,2511118
+1797873,Huai'an,900045007,Jiangsu,45,China,3,Asia,12,Eastern Asia,2494013
+1264733,Lucknow,900101008,Uttar Pradesh,101,India,3,Asia,14,Southern Asia,2472011
+1650357,Bandung,900102002,West Java,102,Indonesia,3,Asia,13,South-Eastern Asia,2444160
+1214520,Medan,900102003,North Sumatra,102,Indonesia,3,Asia,13,South-Eastern Asia,2435252
+2357048,Ouagadougou,3136,Centre,35,Burkina Faso,1,Africa,3,Western Africa,2415266
+1262180,Nagpur,900101000,Maharashtra,101,India,3,Asia,14,Southern Asia,2405665
+3399415,Fortaleza,900031004,Ceara,31,Brazil,2,Americas,8,South America,2400000
+3687925,Cali,900048001,Valle del Cauca Department,48,Colombia,2,Americas,8,South America,2392877
+1835329,Daegu,900116003,Daegu,116,South Korea,3,Asia,12,Eastern Asia,2365523
+2507480,Algiers,1118,Algiers,4,Algeria,1,Africa,1,Northern Africa,2364230

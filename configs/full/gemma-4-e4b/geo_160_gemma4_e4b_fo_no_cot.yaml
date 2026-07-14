@@ -1,0 +1,44 @@
+# Benchmark - Geo (160, google/gemma-4-E4B-it, FULLY_OBSERVABLE, no CoT)
+# Run: python benchmark_runner.py --config configs/full/gemma-4-e4b/geo_160_gemma4_e4b_fo_no_cot.yaml
+
+models:
+  seeker:
+    model: "google/gemma-4-E4B-it"
+    timeout: 180.0
+
+  oracle:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+  pruner:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+game:
+  observability_mode: "FULLY_OBSERVABLE"
+  max_turns: 30
+
+dataset:
+  type: "geo"
+  csv_path: "data/geo/top_160_pop_cities.csv"
+  num_targets: null
+  runs_per_target: 3
+
+experiment:
+  name: "geo_160_gemma4_e4b_fo_no_cot"
+  max_workers: 16
+  tags: {}
+
+output:
+  base_dir: "outputs"
+  save_conversations: true
+  save_graph_plots: false
+
+debug:
+  enabled: true

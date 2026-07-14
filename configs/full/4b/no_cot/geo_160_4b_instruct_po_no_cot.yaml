@@ -1,0 +1,47 @@
+# Benchmark Configuration - Geo Full (160 cities, PO + No COT)
+# Run: python benchmark_runner.py --config configs/full/4b/geo_po_no_cot.yaml
+
+models:
+  seeker:
+    model: "Qwen3-4B-Instruct-2507"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: false
+
+  oracle:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+  pruner:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+game:
+  observability_mode: "PARTIALLY_OBSERVABLE"
+  max_turns: 30
+
+dataset:
+  type: "geo"
+  csv_path: "data/geo/top_160_pop_cities.csv"
+  num_targets: null
+  runs_per_target: 3
+
+experiment:
+  name: "geo_160_4b_instruct_po_no_cot"
+  max_workers: 32
+  tags: {}
+
+output:
+  base_dir: "outputs"
+  save_conversations: true
+  save_graph_plots: false
+
+debug:
+  enabled: true

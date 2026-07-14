@@ -1,0 +1,28 @@
+# Core dependencies for info-gainme_dev project
+# AI/ML and API dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+pyyaml>=6.0.0
+pydantic>=2.0.0
+
+# Network analysis and visualization
+networkx>=3.0.0
+matplotlib>=3.7.0
+
+# Token counting
+transformers>=4.30.0
+tqdm>=4.65.0
+
+# Sentence embeddings (scripts/analysis/question_diversity_embeddings.py)
+sentence-transformers>=3.0.0
+
+# Web requests (for deprecated modules)
+requests>=2.31.0
+
+# Optional: Better graph layouts (requires graphviz system package)
+# pygraphviz>=1.10

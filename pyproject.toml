@@ -1,0 +1,16 @@
+[project]
+name = "info-gainme"
+version = "1.0.0"
+description = "InfoGainMe: A benchmark for measuring information gain in LLM conversations via 20-questions-style games"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "openai>=2.8.1",
+    "pydantic>=2.0.0",
+    "pandas>=2.3.3",
+    "scipy>=1.17.0",
+    "datasets>=4.8.5",
+    "sentence-transformers>=5.5.0",
+    "pyyaml>=6.0",
+]

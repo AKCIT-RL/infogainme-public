@@ -1,0 +1,13 @@
+.env
+outputs/
+logs/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+.DS_Store
+*.log
+*.tmp
+.servers_override_*.yaml

@@ -1,0 +1,35 @@
+category,label,aliases
+Sports,Basketball,
+Sports,Football,
+Animals,Cat,
+Animals,Dog,
+Fruits,Apple,
+Fruits,Banana,
+Vehicles,Car,
+Vehicles,Airplane,Plane
+Clothes,Shirt,
+Clothes,Pants,Pant;Pair of pants
+Electronics,Computer,
+Electronics,Television,TV
+Musical Instruments,Piano,
+Musical Instruments,Guitar,
+Furniture,Chair,
+Furniture,Table,
+Office Supplies,Pen,
+Office Supplies,Paper,Piece of paper
+Vegetables,Carrot,
+Vegetables,Tomato,
+Art,Painting,Canvas painting;Oil painting;Watercolor painting
+Art,Paintbrush,
+Kitchen Tools,Knife,
+Kitchen Tools,Spoon,
+Nature,Rock,
+Nature,Tree,
+Toys,Lego,Lego set
+Toys,Doll,Toy doll;Plush doll
+Jewelry,Necklace,
+Jewelry,Ring,
+Garden Supplies,Shovel,
+Garden Supplies,Rake,
+Tools,Hammer,
+Tools,Screwdriver,

@@ -1,0 +1,21 @@
+city_id,city_name,state_id,state_name,country_id,country_name,region_id,region_name,subregion_id,subregion_name,population_2025
+1796236,Shanghai,900045000,Shanghai,45,China,3,Asia,12,Eastern Asia,24874500
+1816670,Beijing,900045001,Beijing,45,China,3,Asia,12,Eastern Asia,18960744
+1795565,Shenzhen,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,17494398
+1809858,Guangzhou,900045002,Guangdong,45,China,3,Asia,12,Eastern Asia,16096724
+2314302,Kinshasa,900051000,Kinshasa,51,Democratic Republic of the Congo,1,Africa,2,Middle Africa,16000000
+745044,Istanbul,2170,Istanbul,225,Turkey,3,Asia,11,Western Asia,15701602
+2332459,Lagos,900161000,Lagos,161,Nigeria,1,Africa,3,Western Africa,15388000
+1566083,Ho Chi Minh City,900240000,Ho Chi Minh City (HCMC),240,Vietnam,3,Asia,13,South-Eastern Asia,14002598
+1815286,Chengdu,900045003,Sichuan,45,China,3,Asia,12,Eastern Asia,13568357
+1172451,Lahore,900167000,Punjab,167,Pakistan,3,Asia,14,Southern Asia,13004135
+1275339,Mumbai,900101000,Maharashtra,101,India,3,Asia,14,Southern Asia,12691836
+3448439,Sao Paulo,900031000,Sao Paulo,31,Brazil,2,Americas,8,South America,12400232
+3530597,Mexico City,900142000,Mexico City,142,Mexico,2,Americas,6,Northern America,12294193
+1174872,Karachi,900167001,Sindh,167,Pakistan,3,Asia,14,Southern Asia,11624219
+1792947,Tianjin,900045004,Tianjin,45,China,3,Asia,12,Eastern Asia,11090314
+1273294,Delhi,900101001,Delhi,101,India,3,Asia,14,Southern Asia,11034555
+1791247,Wuhan,900045005,Hubei,45,China,3,Asia,12,Eastern Asia,10392693
+524901,Moscow,900182000,Moscow,182,Russia,4,Europe,15,Eastern Europe,10381222
+1185241,Dhaka,900019000,Dhaka Division,19,Bangladesh,3,Asia,14,Southern Asia,10356500
+1835848,Seoul,3849,Seoul,116,South Korea,3,Asia,12,Eastern Asia,10349312

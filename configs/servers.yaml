@@ -1,0 +1,35 @@
+# Model server endpoints
+# Update BASE_URL to point to your vLLM instance before running.
+# Format: served-model-name: "<base_url>"
+# The served-model-name must match the `model` field in the config YAML exactly.
+#
+# Run vLLM with:
+#   python -m vllm.entrypoints.openai.api_server \
+#     --model <hf_repo> --served-model-name <name> --port 8000
+
+servers:
+  # Oracle / Pruner (used in all experiments)
+  Qwen3-8B: "http://<NODE_IP>:<PORT>/v1"
+
+  # Seeker models
+  Llama-3.1-8B-Instruct:              "http://<NODE_IP>:<PORT>/v1"
+  paprika_Meta-Llama-3.1-8B-Instruct: "http://<NODE_IP>:<PORT>/v1"
+  Qwen3-4B-Instruct-2507:             "http://<NODE_IP>:<PORT>/v1"
+  Qwen3-4B-Thinking-2507:             "http://<NODE_IP>:<PORT>/v1"
+  Qwen3-30B-A3B-Instruct-2507:        "http://<NODE_IP>:<PORT>/v1"
+  Qwen3-30B-A3B-Thinking-2507:        "http://<NODE_IP>:<PORT>/v1"
+  google/gemma-4-E4B-it:              "http://<NODE_IP>:<PORT>/v1"
+  google/gemma-4-31B-it:              "http://<NODE_IP>:<PORT>/v1"
+  Nemotron-Cascade-8B:                "http://<NODE_IP>:<PORT>/v1"
+
+hf_paths:
+  Qwen3-8B:                            "Qwen/Qwen3-8B"
+  Llama-3.1-8B-Instruct:              "meta-llama/Llama-3.1-8B-Instruct"
+  paprika_Meta-Llama-3.1-8B-Instruct: "changemyname/paprika-Meta-Llama-3.1-8B-Instruct"
+  Qwen3-4B-Instruct-2507:             "Qwen/Qwen3-4B-Instruct-2507"
+  Qwen3-4B-Thinking-2507:             "Qwen/Qwen3-4B-Thinking-2507"
+  Qwen3-30B-A3B-Instruct-2507:        "Qwen/Qwen3-30B-A3B-Instruct-2507"
+  Qwen3-30B-A3B-Thinking-2507:        "Qwen/Qwen3-30B-A3B-Thinking-2507"
+  google/gemma-4-E4B-it:              "google/gemma-4-E4B-it"
+  google/gemma-4-31B-it:              "google/gemma-4-31B-it"
+  Nemotron-Cascade-8B:                "nvidia/Nemotron-Cascade-8B"

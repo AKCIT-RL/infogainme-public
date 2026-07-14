@@ -1,0 +1,47 @@
+# Benchmark - Diseases (160, google/gemma-4-E4B-it, INITIALLY_OBSERVABLE, CoT)
+# Run: python benchmark_runner.py --config configs/full/gemma-4-e4b/diseases_160_gemma4_e4b_io_cot.yaml
+
+models:
+  seeker:
+    model: "google/gemma-4-E4B-it"
+    timeout: 180.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+  oracle:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+  pruner:
+    model: "Qwen3-8B"
+    timeout: 120.0
+    extra_body:
+      chat_template_kwargs:
+        enable_thinking: true
+
+game:
+  observability_mode: "INITIALLY_OBSERVABLE"
+  max_turns: 30
+
+dataset:
+  type: "diseases"
+  csv_path: "data/diseases/diseases_160.csv"
+  num_targets: null
+  runs_per_target: 3
+
+experiment:
+  name: "diseases_160_gemma4_e4b_io_cot"
+  max_workers: 16
+  tags: {}
+
+output:
+  base_dir: "outputs"
+  save_conversations: true
+  save_graph_plots: false
+
+debug:
+  enabled: true
