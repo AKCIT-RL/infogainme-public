@@ -167,14 +167,3 @@ scripts/
   reasoning_traces/        # CoT trace synthesis and EIG evaluation
   question_classification/ # question type annotation
 ```
-
-## Citation
-
-```bibtex
-@article{...,
-  title   = {...},
-  author  = {...},
-  journal = {...},
-  year    = {2025},
-}
-```
