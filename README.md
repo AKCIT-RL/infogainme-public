@@ -40,12 +40,10 @@ Every result in the paper is derived from the released runs, published as a
 HuggingFace dataset. Download them instead of re-running the benchmark:
 
 ```bash
-huggingface-cli download <DATASET_ID> --repo-type dataset --local-dir outputs
+huggingface-cli download infogainme/infogainme-runs --repo-type dataset --local-dir outputs
 # each experiment ships a conversations.zip — unpack them in place
 find outputs/models -name conversations.zip -execdir unzip -q -o {} \;
 ```
-
-> The dataset identifier is withheld here for anonymous review.
 
 This gives you `outputs/models/<triple>/<experiment>/` with `runs.csv`,
 `summary.json`, `variance.json` and the full `conversations/` tree
